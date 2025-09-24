@@ -6,7 +6,7 @@ import Link from 'next/link'
 import { useForm } from 'react-hook-form'
 import { useAuth } from '@/lib/auth-context'
 import { RegisterCredentials } from '@/types'
-import { Eye, EyeOff, Mail, Lock, User, ArrowRight, CheckCircle } from 'lucide-react'
+import { Eye, EyeOff, Mail,User, ArrowRight, CheckCircle } from 'lucide-react'
 
 export default function ModernRegisterPage() {
   const router = useRouter()
