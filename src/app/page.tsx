@@ -12,7 +12,7 @@ export default function ModernHomePage() {
             {/* Badge */}
             <div className="badge badge-primary badge-outline mb-8 px-4 py-2 text-sm font-medium">
               <Sparkles className="w-4 h-4 mr-2" />
-              AI-Powered Career Discovery
+              Phychology Based Career Discovery
             </div>
 
             <h1 className="text-6xl md:text-8xl font-bold mb-6 leading-tight">
